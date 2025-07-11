@@ -40,10 +40,10 @@ The follow analysis were made to price, percentage and volume variables.
 1. **Statistical describe**;
 2. **Line plot of High and Low Price (USD) over time**;
 3. **Bar plot of Daily Percentage Change over time**;
-4. **Box plot of Daily Percentage Change**;
+4. **Blox plot of Daily Percentage Change**;
 5. **Line plot of Cumulative Daily Percentage Change in BTC-USD Price over time**;
 6. **Bar plot of Volume over time**;
-7. **Box plot of Volume Trade**.
+7. **Blox plot of Volume Trade**.
 
 
 ---
